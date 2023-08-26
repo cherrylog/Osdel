@@ -1,0 +1,41 @@
+┌─[deliex-sys@parrot]─[~/Desktop/Command-del]
+└──╼ $ls
+ Autorization.py   DEOS.py      'icone command.png'  'InFo Y.txt'         __pycache__   Textdelsu.py
+ BECDORdel.py      Fileprog.py   icon.ico             IP-add.py           Shakgame.py   Update.py
+ Ddosdel.py        Home.py       Informa.py          'Logo Command.png'   su-del        Yader.py
+┌─[deliex-sys@parrot]─[~/Desktop/Command-del]
+└──╼ $python3 IP-add.py 
+Hello world https://git-clone,ipsurserll
+IP-stok 1  
+ >>  85.140.2.129
+IP-stok 2  
+ >>  123.765.3.56
+Time and date of IP transition and pairing  
+ >>16.08.2023 00:29 > 17.08.2023 13:18
+Programms  
+ >>  Hornet LGBT
+Additional data  
+ >>Спасибо    
+85.140.2.129 
+  
+  
+ MEIZU M6s 
+ Model: M712H 
+ Sir-numer: 712HFCSF225QL 
+ MEID:  99001091014041 
+ IMEI1: 866883030505228 
+ IMEI2: 866883030505236 
+ Android: 7.0 
+  IP: 85.140.2.129 
+
+123.765.3.56 
+  
+  
+ manufacturer Samsung 
+ We cannot provide this IMEI manufacturer hides consumer information 
+ Android 13-14 
+ IP:123.765.3.56
+Checklist: output
+  IP:85.140.2.129 Performed a network bypass with IP:123.765.3.56 Network bypass time 16.08.2023 00:29 > 17.08.2023 13:18
+EXIT ? Click-Enter  
+ >>
